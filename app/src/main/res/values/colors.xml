@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0099CC</color> <!--#008577-->
+    <color name="colorPrimaryDark">#0099CC</color>  <!--#00574B-->
+    <color name="colorAccent">#D81B60</color>
+    <color name="myColor1">#FE740006</color>
+    <color name="myColor2">#FE0A0074</color>
+    <color name="Red">#FF0000</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="Gold">#FFD700</color>
+    <color name="BlueVoilet">#8A2BE2</color>
+    <color name="DarkVoilet">#9400D3</color>
+    <color name="SlateBlue">#6A5ACD</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="Lime">#00FF00</color>
+    <color name="LimeGreen">#32CD32</color>
+    <color name="LawnGreen">#7CFC00</color>
+    <color name="Green">#008000</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="Bisque">#FFE4C4</color>
+    <color name="NavajoWhite">#FFDEAD</color>
+</resources>

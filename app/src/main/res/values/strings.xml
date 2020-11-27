@@ -1,0 +1,9 @@
+<resources>
+    <!--<string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Welcome to Tic-Tac-Toe</string>-->
+    <string name="app_name">Kattam Zero</string>
+    <string name="heading">Chalo Khele</string>
+    <string name="grid">Our main grid</string>
+    <string name="status">Player1\'s Turn-Tap to play</string>
+    <string name="cell">Playing Cell</string>
+</resources>
